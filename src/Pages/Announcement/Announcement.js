@@ -47,7 +47,7 @@ function Announcement(){
             alert('입력되지 않은 곳이 있습니다.')
             contentsFocus.current.focus()
         }else{
-            axios.post("https://port-0-seongbinbin-euegqv2llo5f0e8f.sel5.cloudtype.app/api/announcement", newItem)
+            axios.post("https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/announcement", newItem)
             .then((response) => {
                 const {author, title, contents} = response.data
                 setListItems([
@@ -76,7 +76,7 @@ function Announcement(){
 
         if(!viewContents[id]){  // tbody_contents가 false에서 true 될때만 조회수 증가
             try{
-                const response = await axios.put(`https://port-0-seongbinbin-euegqv2llo5f0e8f.sel5.cloudtype.app/api/announcement/${id}`)
+                const response = await axios.put(`https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/announcement/${id}`)
                 const announcementViewCount = response.data
                 const updatedAnnouncementData = announcementData.map((announcement) => {
                     if(announcement._id === announcementViewCount._id){
@@ -119,7 +119,7 @@ function Announcement(){
                 contents: currentContent,
             }
 
-            axios.put(`https://port-0-seongbinbin-euegqv2llo5f0e8f.sel5.cloudtype.app/api/announcement/${update}/update`, updatedAnnouncement)
+            axios.put(`https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/announcement/${update}/update`, updatedAnnouncement)
             .then((response) => {
                 const updatedAnnouncementData = response.data
                 const updatedAnnouncementList = listitems.map((item) => {
@@ -150,7 +150,7 @@ function Announcement(){
     const deleteAnnouncement = async(id) => {
         if(window.confirm('정말 삭제하시겠습니까?')){
             try{
-                await axios.delete(`https://port-0-seongbinbin-euegqv2llo5f0e8f.sel5.cloudtype.app/api/announcement/${id}`)
+                await axios.delete(`https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/announcement/${id}`)
     
                 const newListItems = listitems.filter(item => item.id !== id)
                 setListItems(newListItems)
@@ -162,7 +162,7 @@ function Announcement(){
     }
 
     useEffect(() => {
-        axios.get("https://port-0-seongbinbin-euegqv2llo5f0e8f.sel5.cloudtype.app/api/announcement")
+        axios.get("https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/announcement")
         .then((response) => {
             const reversedData = response.data.reverse()    // 데이터를 역순으로 정렬
             setAnnouncementData(reversedData)
