@@ -1,0 +1,166 @@
+.info_container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;  
+  backdrop-filter: brightness(80%);  
+  z-index: 999;
+}
+.info_modal{
+  background-color: #fff; 
+  padding: 20px;
+  border-radius: 1rem;
+  box-shadow: 7px 7px 39px rgba(0, 104, 255, 0.25);
+  width: 30rem;  
+  margin: 0 auto; 
+}
+
+.info_form{
+  box-sizing: border-box;
+  text-align: start;
+}
+
+.info_close{
+  display: flex;
+  justify-content: flex-end;
+}
+.info_close button{
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.info_title{
+  text-align: center;
+}
+.info_title h2{
+  font-size: 2rem;  
+  color: #0068FF;
+  font-weight: bold;   
+}
+
+.info_change{
+  margin: 2rem;
+}
+.info_change label{
+  display: flex;
+  flex-direction: column;
+}
+.info_change label span{
+  font-size: .6rem;
+  color: red;
+}
+.info_change input{
+  padding: 0px;
+  border: none;
+  border-bottom: 1px solid #CFCFCF;
+  width: 25rem;
+  height: 2rem;
+  outline: none;
+  font-size: 1.2rem;
+  padding-left: 1rem;
+}
+.info_id_check{
+  position: relative;
+}
+.info_id_check button{
+  position: absolute;
+  width: 4rem;
+  height: 2.5rem;
+  top: 0;
+  bottom: 0;
+  right: 1rem;  
+  border-radius: 10px;
+  font-size: .7rem;
+  color: royalblue;
+  background-color: #FFFFFF;
+  border: #0068FF solid 1px; 
+  cursor: pointer;
+}
+
+.info_form form{
+  width: 100%;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+.info_form form label{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;  
+}
+
+.info_btn{
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;    
+}
+.info_btn button{
+  font-size: .7rem;
+  width: 5rem; height: 2rem;
+  background-color: #FFFFFF;
+  color: royalblue;
+  border-radius: 1rem;
+  border: #0068FF solid 1px;  
+  cursor: pointer;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+.info_btn > .error{
+  font-size: .6rem;  
+}
+.info_btn button:hover{
+  font-weight: bold;  
+}
+
+.success{
+  font-size: .6rem;
+  color: green;
+}
+
+@media screen and (max-width: 480px){
+  .info_modal{
+    width: 25rem;
+  }
+  .info_change input{
+    width: 20rem;
+    font-size: 1rem;
+  }
+}
+@media screen and (max-width: 360px){
+  .info_modal{
+    width: 18rem;
+  }
+  .info_change{
+    margin: 1rem;
+  }
+  .info_close button{
+    font-size: 1rem;
+  }
+  .info_title h2{
+    font-size: 1.5rem;
+  }
+  .info_change label{
+    font-size: .8rem;
+  }
+  .info_change input{
+    width: 15rem;
+    font-size: .8rem;
+  }
+  .info_id_check button{
+    width: 3rem; height: 2rem;
+    font-size: .5rem;
+    top: .5rem;
+  }
+  .info_change label span{
+    font-size: .5rem;
+  }
+  .info_btn button{
+    width: 4rem; height: 1.5rem;
+    font-size: .6rem;
+  }
+}

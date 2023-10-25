@@ -1,0 +1,10 @@
+.ScrollTop{
+    position: fixed;
+    bottom: 1%; right: 1%;
+    transform: translate(-50%, -50%);
+}
+
+.goTopIcon{
+    font-size: 2.5rem;
+    cursor: pointer;
+}

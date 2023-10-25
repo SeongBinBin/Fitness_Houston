@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'yg-jalnan';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.2/JalnanOTF00.woff') format('woff');
+    /* 여기어때 잘난체 */
+
+    font-family: 'ONE-Mobile-POP';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/ONE-Mobile-POP.woff') format('woff');
+    /* 원스토어 모바일POP체 */
+}
+
+/* .common{
+    width: 100%;
+    font-family: 'yg-jalnan';
+    font-size: 1.2rem;
+} */
+
+.header_logo{
+    font-family: 'ONE-Mobile-POP';
+}

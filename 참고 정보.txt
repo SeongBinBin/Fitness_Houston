@@ -1,0 +1,23 @@
+mongodb+srv://fitness:houston@cluster0.mbn4mzj.mongodb.net/?retryWrites=true&w=majority
+
+https://electricburglar.tistory.com/105
+https://totally-developer.tistory.com/99
+https://hyunki99.tistory.com/51
+https://peachsoong.tistory.com/20
+https://andwinter.tistory.com/345
+
+npm i mongoose
+npm i express-async-handler
+npm i bcrypt
+npm i express
+npm i mongodb
+npm i dotenv
+npm i body-parser
+npm i nodemon --save
+npm i concurrently --save
+npm i http-proxy-middleware --save
+npm i cors
+npm i moment
+npm i moment-timezone
+
+npm i mongoose express-async-handler bcrypt mongodb dotenv body-parser nodemon concurrently http-proxy-middleware cors moment moment-timezone axios

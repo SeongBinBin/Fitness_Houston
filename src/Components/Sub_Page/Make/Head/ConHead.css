@@ -1,0 +1,114 @@
+.con_head{
+  text-align: center;
+  background: #444 !important;
+  color: #fff;
+  z-index: 1; 
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+.con_box{
+  width: 100%;
+  max-width: 1280px;
+  padding: 150px 0px 100px 0px;
+  margin: 0 auto;
+}
+
+.con_title_info{
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+  color: antiquewhite;
+  font-weight: bold;
+}
+.con_title_text{
+  margin-top: 2.5rem;
+}
+.con_title_text ul{  
+  padding: 0px;
+  margin: 0px;
+  display: inline-flex;
+}
+.con_title_text > ul > li{
+  position: relative;
+  display: inline-block;
+  padding: 0 15px;  
+}
+.con_title_text > ul > li:nth-child(1):before,
+.con_title_text > ul > li:nth-child(2):before{
+  height: .5rem; width: .5rem;
+  position: absolute;
+  top: 50%; right: -0.2rem;
+  margin: 0;
+  border: solid rgba(255, 255, 255, .5);
+  border-width: 0 0 1px 1px;
+  content: '';
+  display: inline-block;
+  transform: translate(0, -50%) rotate(-135deg);
+}
+
+.con_simple{
+  text-align: center;
+  background: lightyellow !important;
+  color: #444;
+  z-index: 1;
+  padding: 50px 0px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+.con_simple_text{
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.con_simple_text > p:nth-child(1){
+  font-size: 1.3rem;  
+}
+.con_simple_text > p:nth-child(3){
+  font-size: 2rem;  
+  font-weight: 500;
+}
+.con_simple_text > p:nth-child(5){
+  font-size: 2.5rem;  
+  font-weight: bold;
+}
+.con_simple_text::before{
+  position: absolute;
+  z-index: -1;
+  content: '';
+  background: lightyellow;
+  width: 3rem; height: 3rem;
+  bottom: -1.6rem;
+  left: 50%;
+  transform: translate(-50%, 0) rotate(-45deg);  
+}
+
+@media screen and (max-width: 760px){  
+  .con_title_info{
+    font-size: 2rem;
+  }
+  .con_title_text{
+    margin-top: 1.5rem;
+    font-size: .7rem;
+  }
+  .con_simple{
+    padding: 20px 0px;
+  }
+  .con_simple_text > p:nth-child(1){
+    font-size: .9rem;  
+  }
+  .con_simple_text > p:nth-child(3){
+    font-size: 1.5rem;  
+    font-weight: 500;
+  }
+  .con_simple_text > p:nth-child(5){
+    font-size: 1.8rem;  
+    font-weight: bold;
+  }
+}
+
+@media screen and (max-width: 360px){
+  .con_box{
+    padding: 120px 0px 50px 0px;    
+  }
+}

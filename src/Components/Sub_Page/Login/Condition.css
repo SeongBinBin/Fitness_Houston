@@ -1,0 +1,85 @@
+.condition_container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;  
+  backdrop-filter: brightness(80%);  
+  z-index: 999;
+}
+.condition_modal{
+  background-color: #fff; 
+  padding: 20px;
+  border-radius: 1rem;
+  box-shadow: 7px 7px 39px rgba(0, 104, 255, 0.25);
+  width: 30rem;  
+  margin: 0 auto;
+}
+.condition_close{
+  display: flex;
+  justify-content: flex-end;
+}
+.condition_close button{
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.condition_box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10rem;  
+}
+.condition_box button{
+  width: 7rem; height: 5rem;
+  margin: 2rem;
+}
+.info_change_btn,
+.logout_btn{
+  background: none;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.info_change_btn span,
+.logout_btn span{
+  font-size: 2rem;
+}
+
+.condition_box button:hover{
+  border: 2px solid #333;
+}
+.condition_box button:hover p{
+  font-weight: bold;
+}
+
+@media screen and (max-width: 480px){
+  .condition_modal{
+    width: 25rem;
+  }
+}
+
+@media screen and (max-width: 360px){
+  .condition_modal{
+    width: 18rem;
+  }
+  .condition_close button{
+    font-size: 1rem;
+  }
+  .condition_box button{
+    width: 6rem; height: 4rem;
+    margin: 1rem;
+  }
+  .logout_btn span,
+  .info_change_btn span{
+    font-size: 1rem;
+  }
+  .logout_btn p,
+  .info_change_btn p{
+    font-size: .6rem;
+  }
+}

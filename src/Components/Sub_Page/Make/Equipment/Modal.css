@@ -1,0 +1,129 @@
+.modal_bg{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; 
+  background: rgba(0, 0, 0, 0.7); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal_box{
+  width: 30rem; height: 45rem;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);  
+  display: flex;  
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.modal_box > button{
+  position: absolute;
+  top: 1rem; right: 1rem;
+  font-size: 1.5rem;
+  border: none;
+  cursor: pointer;
+  background: none;  
+}
+.modal_box img{
+  width: 20rem; height: 22rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.modal_box_text{
+  width: 100%;
+  text-align: center;
+}
+.modal_box_text h2{
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin: 0 auto 1rem auto;
+  padding-bottom: 1rem;
+  width: 70%;
+  border-bottom: 1px solid lightgray;
+  line-height: 2rem;
+}
+
+.modal_box_text p{   
+  margin: 0 auto 1rem auto;
+  padding-bottom: 1rem;
+  width: 80%;
+  border-bottom: 1px solid lightgray;
+  line-height: 1.5rem;
+}
+
+.modal_box_more{
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.modal_box_more button{
+  font-size: .8rem;
+  color: #333;
+  font-weight: bold;
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+
+.modal_box_more button:hover{
+  color: rgb(248, 47, 47);
+}
+
+.body-scroll-lock {
+  overflow: hidden;
+}
+
+@media screen and (max-width: 860px){
+  .modal_box{
+    width: 25rem; height: 40rem;
+  }
+  .modal_box img{
+    width: 15rem; height: 17rem;
+  }
+}
+
+@media screen and (max-width: 480px){
+  .modal_box{
+    width: 20rem; height: 35rem;    
+  }
+  .modal_box img{
+    width: 12rem; height: 14rem;
+    margin-bottom: 1rem;
+  }
+  .modal_box_text h2{
+    font-size: 1rem;
+  }
+  .modal_box_text p{
+    font-size: .8rem;
+  }
+  .modal_box_more button{
+    font-size: .6rem;
+  }
+}
+
+@media screen and (max-width: 360px){
+  .modal_box{
+    width: 17rem; height: 32rem;    
+  }
+  .modal_box img{
+    width: 10rem; height: 12rem;
+    margin-bottom: 1rem;
+  }
+  .modal_box_text h2{
+    font-size: .7rem;
+  }
+  .modal_box_text p{
+    font-size: .5rem;
+  }
+  .modal_box_more button{
+    font-size: .4rem;
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "F:/@react/리액트_프로젝트/구현/fitness_houston"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "구현"
+	}
+}

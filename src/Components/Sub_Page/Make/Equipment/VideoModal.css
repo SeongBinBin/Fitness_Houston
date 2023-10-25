@@ -1,0 +1,45 @@
+.video_modal{
+  width: 50rem; height: 35rem;
+  background: #fff;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  border-radius: 5px;  
+  margin: 0 2rem;
+}
+.video_modal_content{
+  display: flex;
+  flex-direction: column;
+}
+.video_modal_content > div{
+  display: flex;
+  justify-content: flex-end;  
+}
+.video_modal_content button{
+  width: 2rem; height: 2rem;
+  font-size: 1.5rem;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+.video_modal_content iframe{
+  margin: 1rem auto;
+  border-radius: .5rem;  
+}
+
+@media screen and (max-width: 860px){
+  .video_modal{
+    width: 45rem; height: 30rem;
+  }
+  .video_modal_content iframe{
+    width: 600px; height: 400px;
+  }
+}
+
+@media screen and (max-width: 480px){
+  .video_modal{
+    width: 25rem; height: 20rem;
+  }
+  .video_modal_content iframe{
+    width: 300px; height: 250px;
+  }
+}

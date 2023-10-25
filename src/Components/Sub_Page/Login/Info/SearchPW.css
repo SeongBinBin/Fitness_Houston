@@ -1,0 +1,90 @@
+.pw_search_box{    
+  padding: 20px;  
+}
+
+.pw_search_box h2{
+  font-size: 2rem;
+  font-weight: bold;
+  color: #0068FF;
+  width: 60%;
+  text-align: center;
+  margin: 0 auto 1rem auto;
+}
+.pw_search_form{
+  width: 27rem;
+  margin: 2rem auto;  
+}
+
+.pw_search_form > label{
+  display: block;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.search{
+  width: 100%;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #CFCFCF;
+  font-size: 1rem;
+  padding: .5rem;
+  margin-bottom: 1rem;
+}
+
+.pw_search_form > div{
+  text-align: center; 
+}
+
+.search_pw_btn{
+  color: royalblue;
+  background-color: #FFFFFF;
+  border: #0068FF solid 1px; 
+  width: 6.5rem; height: 2rem;
+  text-align: center;  
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.close_search_pw{
+  display: flex;
+  justify-content: flex-end;
+}
+.close_search_pw > button{
+  color: royalblue;
+  background-color: #FFFFFF;
+  border: #0068FF solid 1px; 
+  border-radius: 5px;
+  padding: .5rem;  
+  cursor: pointer;
+}
+
+.error{  
+  color: red;
+}
+
+.result{
+  margin-top: 1rem;
+  color: green;
+}
+
+@media screen and (max-width: 480px){
+  .pw_search_box{
+    padding: 0;
+  }
+  .pw_search_box h2{
+    font-size: 1.5rem;
+  }
+  .pw_search_form{
+    width: 20rem;
+  }
+  .pw_search_form > label{
+    margin: 0;
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 360px){
+  .pw_search_form{
+    width: 18rem;
+  }
+}

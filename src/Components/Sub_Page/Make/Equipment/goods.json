@@ -1,0 +1,868 @@
+{
+  "data" : [
+    {
+      "id": 1,
+      "name": "마하 블록로딩 스미스머신 M9",
+      "url": "https://shop-phinf.pstatic.net/20230901_260/1693546862614CXRta_JPEG/39386899399949839_642872141.jpg?type=f396",      
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/gPL3nWlHJQw?si=9kdteRRsW0kAt5vC"
+    },
+    {
+      "id": 2,
+      "name": "엠포스 스미스머신 BK-3087B",
+      "url": "https://shop-phinf.pstatic.net/20220817_248/1660724317823MjfaQ_JPEG/61860213549371882_564157840.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "버터플라이, 로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 튜빙운동, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스, 백익스텐션",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/me_jbdPo2vw?si=MtBXmK1YTNI9P-Kq"
+    },
+    {
+      "id": 3,
+      "name": "폴딩 큐브 스미스머신 60KG",
+      "url": "https://shop-phinf.pstatic.net/20230630_251/1688137127864PuOeV_JPEG/15493315866695223_1564014805.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/nNlDuSmo60k?si=YMFHLt_RtBAdMTpG"
+    },
+    {
+      "id": 4,
+      "name": "스미스머신 WO365",
+      "url": "https://shop-phinf.pstatic.net/20230414_196/1681424097080QDbo9_JPEG/1774989896712082_278927226.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 팔, 가슴, 어깨, 등",
+      "type" : "버터플라이, 로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 튜빙운동, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스, 백익스텐션",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/sfRpAyZZYvE?si=rfb9RLjtF3n8Rn9r"
+    },
+    {
+      "id": 5,
+      "name": "도깨비 스미스머신 BK-3058",
+      "url": "https://shop-phinf.pstatic.net/20230517_20/1684317661181vjhxp_JPEG/37685206154402388_162187007.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "벤치프레스, 로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 암컬, 스쿼트, 레그컬, 레그익스텐션, 딥스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/3OtG3UPb1TA?si=6u_82GUCrxqkksvJ"
+    },
+    {
+      "id": 6,
+      "name": "살루드 S9 스미스머신 BK-3059",
+      "url": "https://shop-phinf.pstatic.net/20210616_85/1623828595853Ajp3P_JPEG/24964484564547562_1931525149.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "버터플라이, 로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/0Fdnct53UW0?si=njtIBIfcgXKzbmuq"
+    },
+    {
+      "id": 7,
+      "name": "박스맨 BK-3000F",
+      "url": "https://shop-phinf.pstatic.net/20190801_133/hjjc12_1564646967448I9iT1_JPEG/2006801999291934_352503290.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "버터플라이, 로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 튜빙운동, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/oxqDc2vfQL4?si=rN5GjHrM9eoEeleO"
+    },
+    {
+      "id": 8,
+      "name": "프라임엘리트 스미스머신 BK-3010",
+      "url": "https://shop-phinf.pstatic.net/20210927_34/1632720678635QjvpK_JPEG/33856574369619509_1074973775.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "버터플라이, 백익스텐션, 로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 튜빙운동, 체스트프레스, 암컬, 스쿼트, 벤치프레스, 레그컬, 레그익스텐션, 딥스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/FswKximfoAg?si=-AxnmhlFKXycTV4D"
+    },
+    {
+      "id": 9,
+      "name": "프리모션 프로 스미스 BK-3033 프리웨이트",
+      "url": "https://shop-phinf.pstatic.net/20191217_269/1576541858171OSdiM_JPEG/13905246528398273_47910336.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/Ofp_IemJAIQ?si=dQeZp8c0k80-KKKs"
+    },
+    {
+      "id": 10,
+      "name": "렉토 스미스머신 하프랙 BK-3035C",
+      "url": "https://shop-phinf.pstatic.net/20200623_189/1592905665403Fy5n9_JPEG/30267998962540840_20193719.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/FVrsebKuo68?si=WSvMPFPpK0RcgUzT"
+    },
+    {
+      "id": 11,
+      "name": "스마트웨이 스미스머신 BK-3035",
+      "url": "https://shop-phinf.pstatic.net/20190911_226/1568176253518SHhnw_JPEG/5539642064953724_1084320274.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/TeF3MWp9Tb0?si=ZLW9ZSFY_Fqp9u2q"
+    },
+    {
+      "id": 12,
+      "name": "도깨비 살루드 스미스머신 전용 [옵션] 레그프레스 BK-3058 BK-3059",
+      "url": "https://shop-phinf.pstatic.net/20230213_9/1676264241985hr3xo_JPEG/77400130698417277_1749653046.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/osP4W3v_pf8"
+    },
+    {
+      "id": 13,
+      "name": "BK-3058 & BK-3059 전용 [옵션] 레버 암 키트",
+      "url": "https://shop-phinf.pstatic.net/20210802_35/1627863759972MVsYt_JPEG/28999594614002454_1857499645.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/wvwAuPJsQWM?si=HLZfK4guprhu2uS6"
+    },
+    {
+      "id": 14,
+      "name": "파워 로잉 옵션 스미스 케이블 머신 로잉머신",
+      "url": "https://shop-phinf.pstatic.net/20220608_298/16546616137317y9y0_JPEG/55797459210901662_1095115551.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/JhCB_wmRT_k?si=e1u2l4XabuNtsqri"
+    },
+    {
+      "id": 15,
+      "name": "BK- 3035 & BK-3033 전용 랫풀 패키지",
+      "url": "https://shop-phinf.pstatic.net/20211227_233/1640589804357VDoWw_JPEG/41725650002208213_1940825692.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 어깨, 가슴, 허리, 팔, 등",
+      "type" : "로우풀리, 레그프레스, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 딥스, 레그익스텐션, 레그컬, 벤치프레스",
+      "division" : "A",
+      "youtubeUrl" : "https://www.youtube.com/embed/kv-rT-wIBcg?si=Bl99OC5RnML2FH8I"
+    },
+    {
+      "id": 16,
+      "name": "레버로나 BK-181",
+      "url": "https://shop-phinf.pstatic.net/20210811_106/1628677952414JhaFd_JPEG/29813787169935653_1285611476.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "체스트프레스, 암컬, 스쿼트, 레그익스텐션, 레그컬, 풀업, 로우풀리, 벤치프레스",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/qPTm9ENXQcQ?si=E0VKZYh4MnMib9Ae"
+    },
+    {
+      "id": 17,
+      "name": "레그프레스 핵 콤보 BK-3009",
+      "url": "https://shop-phinf.pstatic.net/20190726_207/hjjc12_1564127862456zmreX_JPEG/1490196046356840_242046366.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 허리",
+      "type" : "레그프레스, 스쿼트",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/XFatG0fwJDY?si=hg5NGnHJIX6Q-H1H"
+    },
+    {
+      "id": 18,
+      "name": "토탈 홈짐 H88",
+      "url": "https://shop-phinf.pstatic.net/20230418_245/1681780571096LCLly_JPEG/31264178245707609_493322989.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "버터플라이, 로우풀리, 풀업, 트라이셉, 체스트프레스, 암컬, 스쿼트, 레그컬, 레그익스텐션",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/aHvOFCPgAL8?si=TqHfGo6bskuLF-Rp"
+    },
+    {
+      "id": 19,
+      "name": "신투 레그컬 레그익스텐션 DL6.3",
+      "url": "https://shop-phinf.pstatic.net/20230310_216/1678409576282d5OWI_JPEG/79545464961441015_97720056.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이",
+      "type" : "레그컬, 레그익스텐션",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/I4IYh-GSaoU?si=IcxP9F9Bt5vNPURF"
+    },
+    {
+      "id": 20,
+      "name": "파워 로잉 옵션 스미스 케이블 머신",
+      "url": "https://shop-phinf.pstatic.net/20220608_298/16546616137317y9y0_JPEG/55797459210901662_1095115551.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이",
+      "type" : "레그컬, 레그익스텐션",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/JhCB_wmRT_k?si=e1u2l4XabuNtsqri"
+    },
+    {
+      "id": 21,
+      "name": "베이직 카멜 레버리지짐 G80",
+      "url": "https://shop-phinf.pstatic.net/20210909_209/1631150849951wrSK0_JPEG/32286683758213104_2049493049.jpg?type=f396",
+      "part" : "허벅지, 종아리, 복부, 허리, 가슴, 어깨, 팔, 등, 엉덩이",
+      "type" : "스쿼트, 벤치프레스, 로우풀리, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 암컬, 튜빙운동",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/HXMWM5qE3Cg?si=1RQyqI0N84RSu-Gc"
+    },
+    {
+      "id": 22,
+      "name": "카멜 레버리지짐 G80",
+      "url": "https://shop-phinf.pstatic.net/20210909_97/1631150732112Aio8M_JPEG/32286565161261310_1138052247.jpg?type=f396",
+      "part" : "허벅지, 종아리, 복부, 허리, 가슴, 어깨, 팔, 등, 엉덩이",
+      "type" : "스쿼트, 벤치프레스, 로우풀리, 하이폴리(랫풀다운), 풀업, 푸시업, 트라이셉, 암컬, 튜빙운동",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/HXMWM5qE3Cg?si=1RQyqI0N84RSu-Gc"
+    },
+    {
+      "id": 23,
+      "name": "팔란카 멀티짐 BK-3029 ",
+      "url": "https://shop-phinf.pstatic.net/20200528_145/1590657399811BjbaJ_JPEG/28020788326578442_1408044907.jpg?type=f396",
+      "part" : "허벅지, 종아리, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "스쿼트, 로우풀리, 하이폴리(랫풀다운), 튜빙운동",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/QRQIr8IaskA?si=CAgFtGVceq17uggp"
+    },
+    {
+      "id": 24,
+      "name": "힙쓰러스트 머신 BK-6015",
+      "url": "https://shop-phinf.pstatic.net/20200214_233/1581646997227NaTff_JPEG/19009330780487342_913585249.jpg?type=f396",
+      "part" : "엉덩이",
+      "type" : "튜빙운동, 스쿼트",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/pBTx013N-PI?si=PgRCde-DTSJxiilY"
+    },
+    {
+      "id": 25,
+      "name": "소가 레그 익스텐션 컬 머신 BK-6011",
+      "url": "https://shop-phinf.pstatic.net/20190722_222/hjjc12_1563789260387io9Kz_JPEG/1152648950840648_1546756049.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이",
+      "type" : "레그컬, 레그익스텐션",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/rLOtQTafMB4?si=njX8NS2luafjM8B3"
+    },
+    {
+      "id": 26,
+      "name": "엑스 프로 홈짐 BK-179",
+      "url": "https://shop-phinf.pstatic.net/20210219_68/1613726589539TyRiP_JPEG/14862424375278210_876405573.jpg?type=f396",
+      "part" : "허벅지, 엉덩이, 복부, 등, 팔, 어깨, 가슴, 허리, 종아리",
+      "type" : "체스트프레스, 암컬, 벤치프레스, 레그컬, 하이폴리(랫풀다운), 레그익스텐션, 딥스, 풀업, 트라이셉, 로우풀리",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/YbYjlSv1Cp0?si=kRKSBs5KeyEemRtb"
+    },
+    {
+      "id": 27,
+      "name": "BK-6007 레그 프레스",
+      "url": "https://shop-phinf.pstatic.net/20191108_75/1573184022978zPt71_JPEG/10547411522566767_1052468362.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부",
+      "type" : "레그프레스, 스쿼트, 레그익스텐션",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/rYdWmGBLvCI?si=x3IzMGw2tr4AWCQt"
+    },
+    {
+      "id": 28,
+      "name": "베이직 레버로나 BK-181",
+      "url": "https://shop-phinf.pstatic.net/20170727_106/hjjc12_1501156014300jOW26_JPEG/24463173917498830_826059705.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "벤치프레스, 암컬, 스쿼트, 레그익스텐션, 레그컬, 풀업, 체스트프레스",
+      "division" : "B",
+      "youtubeUrl" : "https://www.youtube.com/embed/qPTm9ENXQcQ?si=3CsVsyeDHC9OAFG3"
+    },
+    {
+      "id": 29,
+      "name": "베르사틸 BK-6008",
+      "url": "https://shop-phinf.pstatic.net/20220628_93/16564080649800zN04_JPEG/57543960716041146_1849138655.jpg?type=f396",
+      "part" : "등, 팔, 가슴, 어깨",
+      "type" : "스쿼트, 딥스, 풀업, 벤치프레스",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/RcZmdTJC51s?si=WjQhA-dgN315qp0S"
+    },
+    {
+      "id": 30,
+      "name": "쿱 미니 하프랙 C11",
+      "url": "https://shop-phinf.pstatic.net/20230609_272/16863073422414qxSl_JPEG/239405059689011_1310006546.jpg?type=f396",
+      "part" : "허벅지, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "스쿼트, 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 딥스",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/tMI9RMxSlyA?si=Nj4qqYJKGrY72oln"
+    },
+    {
+      "id": 31,
+      "name": "하프랙 BK-3003",
+      "url": "https://shop-phinf.pstatic.net/20220628_3/1656403822809kMQAX_JPEG/57539606303619922_805440391.jpg?type=f396",
+      "part" : "종아리, 허벅지, 허리, 팔, 등, 어깨, 가슴, 복부, 엉덩이",
+      "type" : "풀업, 푸시업, 트라이셉, 스쿼트, 딥스, 암컬, 레그컬, 레그익스텐션, 벤치프레스, 레그프레스, 튜빙운동",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/zCKLcBZsSQ8?si=wyQtJWyhYLl6nqPw"
+    },
+    {
+      "id": 32,
+      "name": "스쿼트 스탠드 X9 분리형",
+      "url": "https://shop-phinf.pstatic.net/20230216_40/16765204387538aoFN_JPEG/77656272569112841_855831506.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "스쿼트, 벤치프레스, 암컬, 풀업, 푸시업, 딥스",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/_HPA1nx4rHI?si=dIddz9UEaFbeUmfT"
+    },
+    {
+      "id": 33,
+      "name": "펜더 풀업 하프랙 BK-6014",
+      "url": "https://shop-phinf.pstatic.net/20220715_21/16578805255854I04l_JPEG/59016414281435809_977762467.jpg?type=f396",
+      "part" : "허벅지, 종아리, 복부, 허리, 등",
+      "type" : "풀업, 푸시업, 스쿼트, 딥스",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/eZMV5t9xR84?si=xw7UPczouYedG3xL"
+    },
+    {
+      "id": 34,
+      "name": "페럴렛바 BK-3032L",
+      "url": "https://shop-phinf.pstatic.net/20221209_252/1670566102173uCNMK_JPEG/71701944871995280_1978004689.jpg?type=f396",
+      "part" : "어깨, 가슴, 팔, 등",
+      "type" : "풀업, 푸시업",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/ax2f2YdaUPs?si=DaIsCLIAKysg4qTp"
+    },
+    {
+      "id": 35,
+      "name": "파워케이지 BK-3028",
+      "url": "https://shop-phinf.pstatic.net/20200429_290/1588152918634Tc8EN_JPEG/25516307152382494_1380898528.jpg?type=f396",
+      "part" : "허벅지, 종아리, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "풀업, 푸시업, 트라이셉, 스쿼트, 딥스, 암컬, 레그컬, 레그익스텐션, 벤치프레스, 레그프레스, 튜빙운동",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/mDwiRYIHlEA?si=q72Hjq-GxtAinxTg"
+    },
+    {
+      "id": 36,
+      "name": "행잉 랫풀 패키지 BK-3003LA",
+      "url": "https://shop-phinf.pstatic.net/20220120_58/1642651741181eSAl4_JPEG/43787629498640962_1734964643.jpg?type=f396",
+      "part" : "허벅지, 종아리, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "풀업, 푸시업, 트라이셉, 스쿼트, 딥스, 암컬, 레그컬, 레그익스텐션, 벤치프레스, 레그프레스, 튜빙운동",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/xG5XuOhjWwc?si=_4uq_fzeI24ATPB5"
+    },
+    {
+      "id": 37,
+      "name": "파워 로잉 옵션 스미스 케이블 머신",
+      "url": "https://shop-phinf.pstatic.net/20220608_298/16546616137317y9y0_JPEG/55797459210901662_1095115551.jpg?type=f396",
+      "part" : "허벅지, 종아리, 엉덩이",
+      "type" : "레그컬, 레그익스텐션",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/JhCB_wmRT_k?si=VCXmRKyG-j-iiSmF"
+    },
+    {
+      "id": 38,
+      "name": "쿱 미니 하프랙 C11",
+      "url": "https://shop-phinf.pstatic.net/20221209_136/1670549907511rCktJ_JPEG/71685691218835323_1862938228.jpg?type=f396",
+      "part" : "허벅지, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "스쿼트, 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 딥스, 레그익스텐션",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/dMSgqgonftA?si=Fw7op9RJxnE6iiLG"
+    },
+    {
+      "id": 39,
+      "name": "bk-3003 bk-6008 하프랙 덤벨 스포터",
+      "url": "https://shop-phinf.pstatic.net/20220620_205/1655716967388JP6sa_JPEG/56852795017067367_688946185.jpg?type=f396",
+      "part" : "허벅지, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "스쿼트, 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 딥스, 레그익스텐션",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/N07_f0fHJes?si=hz-kzPv-O_vF-kpE"
+    },
+    {
+      "id": 40,
+      "name": "쿱 미니 하프랙 C11 모노리프트",
+      "url": "https://shop-phinf.pstatic.net/20230609_40/1686307381469xaUzX_JPEG/37522516413921417_1755050379.jpg?type=f396",
+      "part" : "허벅지, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "스쿼트, 풀업, 푸시업, 트라이셉, 체스트프레스, 암컬, 딥스",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/tMI9RMxSlyA?si=yQGGl8kQxAuICJtu"
+    },
+    {
+      "id": 41,
+      "name": "3단 J CUP 전용 악세사리 BK-3003 BK-6008",
+      "url": "https://shop-phinf.pstatic.net/20200605_217/1591365403246VjBJU_JPEG/28728791747454988_2104572613.jpg?type=f396",
+      "part" : "",
+      "type" : "",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/38dYeQ6Li_Q?si=2hgQLZEiTiqXVYZV"
+    },
+    {
+      "id": 42,
+      "name": "마그네틱 포지션 마크",
+      "url": "https://shop-phinf.pstatic.net/20230921_90/1695273592322Mmwi6_JPEG/23081550276249387_1533032534.jpg?type=f396",
+      "part" : "",
+      "type" : "",
+      "division" : "C",
+      "youtubeUrl" : "http://swikoah.godohosting.com/MPSmark/20230921/mark_03.gif"
+    },
+    {
+      "id": 43,
+      "name": "파워케이지 전용옵션 랫풀타워 BK-3028-1",
+      "url": "https://shop-phinf.pstatic.net/20230329_152/1680055237689kXuUI_JPEG/81191071509486080_1164642231.jpg?type=f396",
+      "part" : "등, 허리, 어깨, 팔",
+      "type" : "풀업, 체스트프레스, 암컬",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/mDwiRYIHlEA?si=wGgugxupVBLFo3Fn"
+    },
+    {
+      "id": 44,
+      "name": "엘레베르 하프랙 BK-3003",
+      "url": "https://shop-phinf.pstatic.net/20210216_220/1613459263017S9B7k_JPEG/14595090841145846_514385064.jpg?type=f396",
+      "part" : "허벅지, 종아리, 복부, 엉덩이, 허리, 가슴, 어깨, 팔",
+      "type" : "암컬, 스쿼트, 풀업, 푸시업, 딥스, 벤치프레스, 트라이셉",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/zCKLcBZsSQ8?si=_xeR3Z3f7CJIk8IM"
+    },
+    {
+      "id": 45,
+      "name": "파워케이지+[옵션]랫풀타워 포함 BK-3028",
+      "url": "https://shop-phinf.pstatic.net/20200506_98/1588733269671JmlXd_JPEG/26096658184131165_472589829.jpg?type=f396",
+      "part" : "허벅지, 종아리, 복부, 엉덩이, 허리, 가슴, 어깨, 팔",
+      "type" : "암컬, 스쿼트, 풀업, 푸시업, 딥스, 벤치프레스, 트라이셉, 레그프레스",
+      "division" : "C",
+      "youtubeUrl" : "https://www.youtube.com/embed/mDwiRYIHlEA?si=6Q3b2YHfUoeZ4Bc6"
+    },
+    {
+      "id": 46,
+      "name": "커머셜 플랫벤치 B1 평벤치",
+      "url": "https://shop-phinf.pstatic.net/20220628_68/1656379589512e3rPD_JPEG/57515435226936355_1414036832.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이, 허리, 가슴, 어깨, 팔",
+      "type" : "플랫",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/nEeLUGrxiAE?si=yFOhGf-FQFL0yDGA"
+    },
+    {
+      "id": 47,
+      "name": "평벤치 블랙에디션 BK-3021",
+      "url": "https://shop-phinf.pstatic.net/20200420_260/1587373486345N0Ssx_JPEG/24735819918510064_1321597670.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이, 허리, 가슴, 어깨, 팔",
+      "type" : "플랫",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/nEeLUGrxiAE?si=yFOhGf-FQFL0yDGA"
+    },
+    {
+      "id": 48,
+      "name": "각도조절 FID 벤치 BX-11",
+      "url": "https://shop-phinf.pstatic.net/20230912_298/1694493828692xCFdU_JPEG/10783920508274749_115345483.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "플랫, 인클라인, 디클라인",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/SEivla1ijw8?si=D851bdjzORDZDh67"
+    },
+    {
+      "id": 49,
+      "name": "각도조절 FID 벤치 BX-11 케이블",
+      "url": "https://shop-phinf.pstatic.net/20230912_171/1694493510226HX8GI_JPEG/383202041883445_84288866.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "플랫, 인클라인, 디클라인",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/dRDqTqr9Gdc"
+    },
+    {
+      "id": 50,
+      "name": "각도조절 FID 벤치 BX-11 레그리프트 포함",
+      "url": "https://shop-phinf.pstatic.net/20230911_118/1694405309762NofTN_JPEG/2778988617363558_1750598683.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "플랫, 인클라인, 디클라인",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/SEivla1ijw8"
+    },
+    {
+      "id": 51,
+      "name": "각도조절 덤벨벤치 HC39 정리가능",
+      "url": "https://shop-phinf.pstatic.net/20230827_250/1693145166359SRWTw_JPEG/38985203176797608_883103355.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "플랫, 인클라인",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/DMabwW2tBpE"
+    },
+    {
+      "id": 52,
+      "name": "코어 메이커 벤치 BK-3026",
+      "url": "https://shop-phinf.pstatic.net/20210526_271/1621987817171WBnSg_JPEG/23123715851890403_156972188.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "플랫, 인클라인",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/H8M39LjdD_E?si=RIAAjoBaxdDp2hbA"
+    },
+    {
+      "id": 53,
+      "name": "듀로 각도조절벤치 BK-4006",
+      "url": "https://shop-phinf.pstatic.net/20210708_261/1625712344486MA2SS_JPEG/26848124208710454_100769085.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "플랫, 인클라인",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/ravmCIl92hY?si=GG4910bj0ctVPz15"
+    },
+    {
+      "id": 54,
+      "name": "스쿼트 머신 BK-6005B",
+      "url": "https://shop-phinf.pstatic.net/20180911_183/hjjc12_1536658269490s6yzO_JPEG/59965449128892334_121851541.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이",
+      "type" : "스쿼트, 싯업, 푸시업",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/nmrzfcp0Vd8?si=__qKIJek2ryI6ekn"
+    },
+    {
+      "id": 55,
+      "name": "플렉소 백익스텐션 BK-3037",
+      "url": "https://shop-phinf.pstatic.net/20200213_249/1581579483394q6QGc_JPEG/18939317942954961_177249306.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이",
+      "type" : "스쿼트, 싯업, 푸시업",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/miJ99Lxun58?si=R1WgFr3jX8p0dqw8"
+    },
+    {
+      "id": 56,
+      "name": "멀티벤치 BK-Q2 각도조절",
+      "url": "https://shop-phinf.pstatic.net/20200925_34/1601025115381175vG_JPEG/2161004076453496_2121912149.jpg?type=f296_296",
+      "part" : "복부, 허리, 가슴, 어깨, 팔",
+      "type" : "플랫, 인클라인, 디클라인",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/a684lKAfpuI?si=4v21ApS4jyk9V74F"
+    },
+    {
+      "id": 57,
+      "name": "웨이트벤치 알파 BK-3018",
+      "url": "https://shop-phinf.pstatic.net/20191119_63/1574127640633K6iCq_JPEG/11488379265308064_376990448.jpg?type=f296_296",
+      "part" : "허벅지, 엉덩이, 종아리, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "플랫, 인클라인, 디클라인",
+      "division" : "D",
+      "youtubeUrl" : "https://www.youtube.com/embed/yJTX9IJQdeU?si=I1m4wWcBlfLy-7FI"
+    },
+    {
+      "id": 58,
+      "name": "폴딩 토도 해머벤치 [전용]",
+      "url": "https://shop-phinf.pstatic.net/20230111_178/1673402471424HYoKy_JPEG/74538367159002639_1858014697.jpg?type=f296_296",
+      "part" : "",
+      "type" : "",
+      "division" : "E",
+      "youtubeUrl" : "https://www.youtube.com/embed/O_5I0eyDPXU?si=phlqXpR4JjrIKinH"
+    },
+    {
+      "id": 59,
+      "name": "폴딩 토도 해머벤치 BK-166",
+      "url": "https://shop-phinf.pstatic.net/20230103_21/1672730749998fru6D_JPEG/73866645729663423_1713016289.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 엉덩이, 복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "플랫, 인클라인, 디클라인",
+      "division" : "E",
+      "youtubeUrl" : "https://www.youtube.com/embed/O_5I0eyDPXU?si=ds2k77V0iKUoWMrh"
+    },
+    {
+      "id": 60,
+      "name": "폭스 벤치프레스 BK-173",
+      "url": "https://shop-phinf.pstatic.net/20220223_207/1645598662709Th7kr_JPEG/46734490517396279_974369721.jpg?type=f296_296",
+      "part" : "허벅지, 종아리, 복부, 가슴, 팔, 등",
+      "type" : "플랫, 인클라인",
+      "division" : "E",
+      "youtubeUrl" : "https://www.youtube.com/embed/3F9mPYofDBA?si=g7HyJUsUCWQXKS9Q" 
+    },
+    {
+      "id": 61,
+      "name": "옵티마 멀티 펑션 벤치프레스 BK-3011",
+      "url": "https://shop-phinf.pstatic.net/20190603_57/hjjc12_15595194418658Azh8_JPEG/42150621518183013_495841580.jpg?type=f296_296",
+      "part" : "가슴, 어깨, 등",
+      "type" : "플랫, 인클라인",
+      "division" : "E",
+      "youtubeUrl" : "https://www.youtube.com/embed/FM3X54DbtJg?si=FVti0OUls4Gw8i3s"
+    },
+    {
+      "id": 62,
+      "name": "멀티 벤치프레스 BK-3023",
+      "url": "https://shop-phinf.pstatic.net/20200302_285/1583137440878rsAvy_JPEG/20497275426773374_1772640661.jpg?type=f296_296",
+      "part" : "복부, 허리, 가슴, 어깨, 팔, 등",
+      "type" : "인클라인, 플랫",
+      "division" : "E",
+      "youtubeUrl" : "https://www.youtube.com/embed/IXd062BK9UM?si=v1wBHzuae4rR0Vym"
+    },
+    {
+      "id": 63,
+      "name": "런닝머신 무동력 런닝머신 프리런8900",
+      "url": "https://shop-phinf.pstatic.net/20230825_287/1692936779960RXnqj_JPEG/19789370776582135_1413240072.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "런닝",
+      "division" : "F",
+      "youtubeUrl" : "https://www.youtube.com/embed/Ln0LJh3XqaM"
+    },
+    {
+      "id": 64,
+      "name": "X7 가정용 런닝머신",
+      "url": "https://shop-phinf.pstatic.net/20200808_100/1596836775344ArhTm_JPEG/34200163845071387_1590989974.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "런닝",
+      "division" : "F",
+      "youtubeUrl" : "https://www.youtube.com/embed/9h0qx5PGmoU?si=ZMkHX9HbHIcPCb7P"
+    },
+    {
+      "id": 65,
+      "name": "런닝머신 E7",
+      "url": "https://shop-phinf.pstatic.net/20230630_235/16881005887460kjMC_JPEG/1280306583658909_439598713.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "런닝",
+      "division" : "F",
+      "youtubeUrl" : "https://www.youtube.com/embed/UKsNrcec0mU?si=Dc8wuKbU17RobrXS"
+    },
+    {
+      "id": 66,
+      "name": "가정용 3X 접이식 무소음 미니 런닝머신",
+      "url": "https://shop-phinf.pstatic.net/20230828_236/1693182069205eh0Ky_JPEG/11485501003164471_1053963242.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "런닝",
+      "division" : "F",
+      "youtubeUrl" : "https://www.youtube.com/embed/zkkYP4Jj5Dw"
+    },
+    {
+      "id": 67,
+      "name": "우드 프렌들리 무동력 런닝머신 W21",
+      "url": "https://shop-phinf.pstatic.net/20210226_265/1614308045759G70RI_JPEG/15443934469091734_1993673146.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "런닝",
+      "division" : "F",
+      "youtubeUrl" : "https://www.youtube.com/embed/Y7k6ibxkkTg?si=JqKXBmIu_UNZG15Y"
+    },
+    {
+      "id": 68,
+      "name": "런닝머신 M10 AC모터 세미 클럽형",
+      "url": "https://shop-phinf.pstatic.net/20230630_13/1688099618655IARHg_JPEG/20834496620418420_1747146871.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "런닝",
+      "division" : "F",
+      "youtubeUrl" : "https://www.youtube.com/embed/MY2vf1tM2sU?si=KuXUXHZin_Wjmy5Q"
+    },
+    {
+      "id": 69,
+      "name": "ERG 에어바이크 A55 헬스용",
+      "url": "https://shop-phinf.pstatic.net/20220905_154/16623391940191qnmD_JPEG/63474977729915220_1769036515.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/SFjuwUUEnqA?si=yBON59lMqa9gZDIZ"
+    },
+    {
+      "id": 70,
+      "name": "입식 전기 바이크 U80 사이클",
+      "url": "https://shop-phinf.pstatic.net/20230102_179/1672632354843Xe4vm_JPEG/73768200557653157_1265433870.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/HvME8by4Z_Q?si=pdmpPrgF5FPb7Ety"
+    },
+    {
+      "id": 71,
+      "name": "클럽용 좌식 사이클 RB6090",
+      "url": "https://shop-phinf.pstatic.net/20230816_56/16921495900208otCu_JPEG/6825179374454350_1780827989.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/7MqP8G0Rmk0"
+    },
+    {
+      "id": 72,
+      "name": "U900 입식자전거 자가방식 헬스 바이크",
+      "url": "https://shop-phinf.pstatic.net/20221115_133/1668507214011SjtkA_JPEG/69643048812859981_2135211852.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/yy0TCte0rcY?si=snlVZ6T0SnCG-cKx"
+    },
+    {
+      "id": 73,
+      "name": "R900 좌식자전거 자가방식 헬스 바이크",
+      "url": "https://shop-phinf.pstatic.net/20230814_25/169199886991841yzE_JPEG/14840978676565605_1910709319.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl": "https://www.youtube.com/embed/WsE7Y-YdNMg?si=d39iXYe7il0xhUVG"
+    },
+    {
+      "id": 74,
+      "name": "에어바이크 어그 A22 헬스용",
+      "url": "https://shop-phinf.pstatic.net/20221102_286/1667379409818BM3wo_JPEG/68515308514891751_1112519752.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/GZC9LgYe3wI?si=MEonCBrhFU4SfDuU"
+    },
+    {
+      "id": 75,
+      "name": "에어바이크 A80 헬스용",
+      "url": "https://shop-phinf.pstatic.net/20220622_103/1655894377202gIy74_JPEG/57030204642429430_1509028859.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/MX155J68sKM?si=esMLMP2o5eSWDOLc"
+    },
+    {
+      "id": 76,
+      "name": "U2.0 입식 사이클",
+      "url": "https://shop-phinf.pstatic.net/20210629_199/1624952516317U0Ndz_JPEG/26088362032902876_743565098.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/mCx_hDIdNso?si=nI0zvmF8Xrz-p0fM"
+    },
+    {
+      "id": 77,
+      "name": "R1.0 좌식 실내자전거 사이클",
+      "url": "https://shop-phinf.pstatic.net/20210513_215/1620893612546MlWrV_JPEG/22029458232122886_886633222.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/0Hg8N3NQoTE?si=T63Fgp-m9gLTNwj8"
+    },
+    {
+      "id": 78,
+      "name": "스피닝자전거 F10",
+      "url": "https://shop-phinf.pstatic.net/20230706_294/1688610402934TtjwX_JPEG/35654486490648378_1226456997.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/Xr7nIGYGg7Q"
+    },
+    {
+      "id": 79,
+      "name": "팬바이크 프로 AIR300 에어바이크",
+      "url": "https://shop-phinf.pstatic.net/20230901_19/1693552334455M3oIW_JPEG/5205656471084309_1415239983.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/gOXSR0Qm0Rs"
+    },
+    {
+      "id": 80,
+      "name": "데스크 바이크",
+      "url": "https://shop-phinf.pstatic.net/20180706_77/hjjc12_1530842636482pje00_JPEG/13561495326767531_826052265.jpg?type=f296_296",
+      "part" : "다리",
+      "type" : "사이클",
+      "division" : "G",
+      "youtubeUrl" : "https://www.youtube.com/embed/SrJRsEGM7Mo?si=HiaHIPLCE09AMSkR"
+    },
+    {
+      "id": 81,
+      "name": "아쿠아 로잉머신 QR3 워터팬",
+      "url": "https://shop-phinf.pstatic.net/20220309_82/164676710766881WAS_JPEG/47902935286033845_1267484151.jpg?type=f296_296",
+      "part" : "전신",
+      "type" : "근력운동",
+      "division" : "H",
+      "youtubeUrl" : "https://www.youtube.com/embed/7ItRPD3shlI"
+    },
+    {
+      "id": 82,
+      "name": "가정용 로잉머신 R2 매트포함",
+      "url": "https://shop-phinf.pstatic.net/20230921_234/1695255597532JRF80_JPEG/9572869350720777_1560105474.jpg?type=f296_296",
+      "part" : "전신",
+      "type" : "근력운동",
+      "division" : "H",
+      "youtubeUrl" : "https://www.youtube.com/embed/pUI5i1dRAqY?si=l_hiFCsbkHBP1msb"
+    },
+    {
+      "id": 83,
+      "name": "로잉머신 R22 유산소 노젓기",
+      "url": "https://shop-phinf.pstatic.net/20221110_123/1668066205984MMLm8_JPEG/69202051669025650_1844088362.jpg?type=f296_296",
+      "part" : "전신",
+      "type" : "근력운동",
+      "division" : "H",
+      "youtubeUrl" : "https://www.youtube.com/embed/JJ_BjoukiYo?si=gusTK-Vtyfu-zmnK"
+    },
+    {
+      "id": 84,
+      "name": "키트레이너 A500 에어 스키",
+      "url": "https://shop-phinf.pstatic.net/20230901_63/1693554641637fvjGD_JPEG/17895670471034779_857183588.jpg?type=f296_296",
+      "part" : "허리, 가슴, 어깨, 팔, 등",
+      "type" : "근력운동",
+      "division" : "H",
+      "youtubeUrl" : "https://www.youtube.com/embed/zMWJlhMAuSU?si=iaSbP5B2Ocjs8uNK"
+    },
+    {
+      "id": 85,
+      "name": "로잉머신 튜빙밴드 세트 노젓기",
+      "url": "https://shop-phinf.pstatic.net/20221020_104/1666254217841nqj44_JPEG/67390060550201308_1198796886.jpg?type=f296_296",
+      "part" : "허리, 가슴, 어깨, 팔, 등",
+      "type" : "근력운동",
+      "division" : "H",
+      "youtubeUrl" : "http://swikoah.godohosting.com/P_rowing_OP/SET/Rowing_BAND_SET_1_03.gif"
+    },
+    {
+      "id": 86,
+      "name": "로잉 머신 쿠션 시트 안장 패드 세척가능",
+      "url": "https://shop-phinf.pstatic.net/20220625_101/1656102664799oJFOG_JPEG/57238553479671399_2042794450.jpg?type=f296_296",
+      "part" : "허리, 가슴, 어깨, 팔, 등",
+      "type" : "근력운동",
+      "division" : "H",
+      "youtubeUrl" : "https://www.youtube.com/embed/2XhUUJ9JwJg?si=Pxdf0iw8F5sdjY8P"
+    },
+    {
+      "id": 87,
+      "name": "로잉 R5 전신 유산소 가정용 조정 노젓기",
+      "url": "https://shop-phinf.pstatic.net/20220516_133/1652696061149H9dNe_JPEG/53831956881914757_1032672877.jpg?type=f296_296",
+      "part" : "허리, 가슴, 어깨, 팔, 등",
+      "type" : "근력운동",
+      "division" : "H",
+      "youtubeUrl" : "https://www.youtube.com/embed/YBjcus2grQg?si=ud7iQZxaFOuKgdBa"
+    },
+    {
+      "id": 88,
+      "name": "파워 로잉 옵션 스미스 케이블 머신",
+      "url": "https://shop-phinf.pstatic.net/20220608_112/1654661634331VFHyC_JPEG/55797480036868854_1129706218.jpg?type=f296_296",
+      "part" : "허리, 가슴, 어깨, 팔, 등",
+      "type" : "근력운동",
+      "division" : "H",
+      "youtubeUrl" : "https://www.youtube.com/embed/JhCB_wmRT_k?si=qKc_YXTT-2rYuG0I"
+    },
+    {
+      "id": 89,
+      "name": "머슬리치 에어스키 스키에르그 S22",
+      "url": "https://shop-phinf.pstatic.net/20230331_110/1680247024498duu3X_JPEG/81382923184160909_313411812.jpg?type=f296_296",
+      "part" : "허리, 가슴, 어깨, 팔, 등",
+      "type" : "근력운동",
+      "division" : "H",
+      "youtubeUrl" : "https://www.youtube.com/embed/nn0yXVV7QAY"
+    },
+    {
+      "id": 90,
+      "name": "클럽용 로잉머신 R500 프리미엄",
+      "url": "https://shop-phinf.pstatic.net/20190910_245/1568082406685tjL5E_JPEG/5442241233797962_397041651.jpg?type=f296_296",
+      "part" : "허리, 가슴, 어깨, 팔, 등",
+      "type" : "근력운동",
+      "division" : "H",
+      "youtubeUrl" : "https://www.youtube.com/embed/QtI2-9ria-I?si=h9nGBKYo0cW-TutZ"
+    },
+    {
+      "id": 91,
+      "name": "E1.0 하이브리드 일립티컬 입식",
+      "url": "https://shop-phinf.pstatic.net/20210702_210/1625210454754HQGyj_JPEG/26346289587689292_1168513265.jpg?type=f296_296",
+      "part" : "허리, 가슴, 어깨, 팔, 등",
+      "type" : "유산소운동",
+      "division" : "I",
+      "youtubeUrl" : "https://www.youtube.com/embed/EdNz_LLt-oc?si=uveqAWzflGP1Adan"
+    },
+    {
+      "id": 92,
+      "name": "클럽용 E900 일립티컬 머신",
+      "url": "https://shop-phinf.pstatic.net/20230823_193/1692783041154reXJN_JPEG/7672748004090387_1377873365.jpg?type=f296_296",
+      "part" : "허리, 가슴, 어깨, 팔, 등",
+      "type" : "유산소운동",
+      "division" : "I",
+      "youtubeUrl" : "https://www.youtube.com/embed/BP-oVIZfLL8"
+    },
+    {
+      "id": 93,
+      "name": "스탠딩 펀칭백 PRO4400",
+      "url": "https://shop-phinf.pstatic.net/20230914_97/1694683318411oQbLK_JPEG/367792312065668_445724310.jpg?type=f296_296",
+      "part" : "허리, 어깨, 팔, 등",
+      "type" : "유산소운동, 근력운동",
+      "division" : "J",
+      "youtubeUrl" : "https://www.youtube.com/embed/TmBls81HgwI"
+    },
+    {
+      "id": 94,
+      "name": "키즈 글러브 헬스장갑",
+      "url": "https://shop-phinf.pstatic.net/20211006_297/16334991701579AvI4_JPEG/34635004946856283_1762309831.jpg?type=f296_296",
+      "part" : "허리, 어깨, 팔, 등",
+      "type" : "유산소운동, 근력운동",
+      "division" : "J",
+      "youtubeUrl" : ""
+    },
+    {
+      "id": 95,
+      "name": "MMA 헤비백 글러브",
+      "url": "https://shop-phinf.pstatic.net/20190709_235/hjjc12_1562648587765To1zG_JPEG/11976195530255_845831457.jpg?type=f296_296",
+      "part" : "허리, 어깨, 팔, 등",
+      "type" : "유산소운동, 근력운동",
+      "division" : "J",
+      "youtubeUrl" : ""
+    },
+    {
+      "id": 96,
+      "name": "사람형 펀칭백 PRO2500 스탠드",
+      "url": "https://shop-phinf.pstatic.net/20170208_45/bodyx_1486539346483AqKMW_JPEG/HS.jpg?type=f296_296",
+      "part" : "허리, 어깨, 팔, 등",
+      "type" : "유산소운동, 근력운동",
+      "division" : "J",
+      "youtubeUrl" : "https://www.youtube.com/embed/PDFCiguynS8?si=JgDA-2sXKFmpETq5"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+
+.Article09 {
+    width: 100%;
+    height: 560px;
+    margin-top: 100px;
+}
+
+.Article09 .header {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Article09 .header img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.Article09 .header h1 { 
+    font-size: 34px;
+    margin-top: 4px;
+}
+
+/* 비디오 영역 */
+
+.Article09_Video {
+    width: 100%;
+    height: 100%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.Article09_Container {
+    width: 65%;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+}
+
+.Article09_Container video {
+    width: 752px;
+    height: 423px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+@media (max-width: 779px) {
+    .Article09 {
+        border: 1px solid red;
+        height: 360px;
+    }
+
+    .Article09_Container video {
+        width: 100%;
+        height: auto;
+    }
+}
+@media (max-width: 520px) {
+    .Article09 .header h1 { 
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 420px) {
+    .Article09 .header h1 { 
+        font-size: 20px;
+    }
+}

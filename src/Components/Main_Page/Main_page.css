@@ -1,0 +1,13 @@
+
+.test{ 
+    color: red;
+}
+
+ul, li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+

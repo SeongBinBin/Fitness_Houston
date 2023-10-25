@@ -1,0 +1,251 @@
+.announcement{
+    width: 100%;
+    height: 300%;
+    margin-bottom: 350px;
+    position: relative;
+    top: 200px;
+}
+.announcement_h1{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+.announcement_p{
+    text-align: center;
+    font-size: .8rem;
+    margin-bottom: 70px;
+}
+
+.table_area{
+    position: relative;
+    width: 70%;
+    margin: 0 auto;
+}
+.create_btn{
+    background-color: #fff;
+    border: 1px solid gray;
+    color: #333;
+    margin-bottom: 5px;
+    cursor: pointer;
+    float: right;
+}
+.create_btn:hover, .contents_btn:hover{
+    background-color: #efefef;
+}
+
+.announcement_list{
+    width: 100%;
+    margin: 0 auto;
+    border-top: 2px solid rgba(0,0,0,0.1);
+}
+.announcement_list thead{
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+.announcement_list th{
+    padding: 20px 10px;
+}
+.thead_num, .thead_view{
+    width: 4rem;
+}
+.thead_author, .thead_date{
+    width: 8rem;
+}
+
+.announcement_list tbody tr{
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    text-align: center;
+}
+.contents_list:hover{
+    background-color: #efefef
+}
+.tbody_title{
+    text-align: left;
+}
+.tbody_title span:hover{
+    border-bottom: 1px solid rgba(0,0,0,0.5);
+}
+.tbody_title_name{
+    cursor: pointer;
+}
+.announcement_list tbody td{
+    padding: 20px 10px;
+}
+
+.announcement_contents{
+    width: 100%;
+    text-align: center;
+}
+
+.create_modal, .update_modal{
+    position: fixed;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+
+    width: 70%;
+    height: 700px;
+    margin: auto;
+    border: 1px solid black;
+    z-index: 990;
+}
+.create_modal h1, .update_modal h1{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.create_modal_contents{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.create_modal_contents span{
+    margin-bottom: 3px;
+}
+.create_modal_contents input, .create_modal_contents textarea{
+    padding: 10px 10px;
+    outline: none;
+}
+.create_modal_contents textarea{
+    resize: none;
+}
+.create_title, .update_title{
+    display: flex;
+    flex-direction: column;
+}
+.create_author, .update_author{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.create_contents, .update_contents{
+    display: flex;
+    flex-direction: column;
+}
+.create_contents textarea, .update_contents textarea{
+    height: 300px;
+}
+.create_btns{
+    display: flex;
+    gap: 5px;
+}
+.contents_btn{
+    background-color: #fff;
+    border: 1px solid gray;
+    color: #333;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.tbody_contents{
+    text-align: left;
+    /* border: 1px solid rgba(0,0,0,0.1); */
+    display: flex;
+    flex-direction: column;
+}
+.contents_pre{
+    width: 100%;
+    min-height: 100px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    padding: 5px;
+}
+.table_show{
+    display: table-cell;
+}
+
+.contents_btns{
+    display: flex;
+    gap: 5px;
+}
+.contents_btns button{
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
+
+
+@media (max-width: 1024px) {
+    .announcement_list{
+        font-size: .9rem;
+    }
+}
+@media (max-width: 780px) {
+    .announcement_list{
+        font-size: .9rem;
+    }
+    .announcement_h1{
+        font-size: 1.5rem;
+    }   
+    .announcement_p{
+        font-size: .6rem;
+    }
+    .table_area{
+        width: 90%;
+    }
+    .create_modal, .update_modal{
+        top: 55%;
+        width: 80%;
+    }
+    .create_modal_contents span{
+        font-size: .9rem;
+    }
+    .create_modal_contents input{
+        font-size: .8rem;
+    }
+}
+@media (max-width: 480px) {
+    .announcement_list{
+        font-size: .65rem;
+    }
+    .announcement_h1{
+        font-size: 1.4rem;
+    }   
+    .create_modal, .update_modal{
+        width: 85%;
+    }
+    .create_modal_contents span{
+        font-size: .8rem;
+    }
+    .create_modal_contents input{
+        font-size: .7rem;
+    }
+    .contents_btn, .create_btn{
+        font-size: .7rem;
+    }
+}
+@media (max-width: 410px) {
+    .announcement_list{
+        font-size: .45rem;
+    }
+    .announcement_h1{
+        font-size: 1.3rem;
+    }   
+    .create_modal, .update_modal{
+        width: 90%;
+        height: 650px;
+    }
+    .create_modal_contents span{
+        font-size: .7rem;
+    }
+    .create_modal_contents input{
+        font-size: .5rem;
+    }
+    .thead_num, .thead_view{
+        width: 2rem;
+    }
+    .thead_author, .thead_date{
+        width: 2.5rem;
+    }
+    .tbody_title{
+        text-align: left;
+    }
+}
