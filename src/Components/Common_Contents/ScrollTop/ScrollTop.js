@@ -6,7 +6,7 @@ function ScrollTop(){
     const [scrollLocation, setScrollLocation] = useState(false)
 
     const scrollControl = () => {
-        if(window.scrollY >= 400){
+        if(window.scrollY >= 300){
             setScrollLocation(true)
         }else{
             setScrollLocation(false)
