@@ -31,7 +31,7 @@ function Information({ onClose }) {
   // 사용자 정보 조회
   const fetchUserData = async(userId) => {
     try{
-      const response = await axios.get(`https://port-0-fitness-houston-login-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/${userId}`)      
+      const response = await axios.get(`https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/${userId}`)      
       if(response.status === 200){
         const user = response.data        
         setName(user.name)
@@ -56,7 +56,7 @@ function Information({ onClose }) {
       return
     }
     try{
-      const response = await axios.post('https://port-0-fitness-houston-login-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/checkId', { userId: id })
+      const response = await axios.post('https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/checkId', { userId: id })
       if(response.status === 200){
         // 아이디 사용여부
         if(response.data.isAvailable){
@@ -142,7 +142,7 @@ function Information({ onClose }) {
           email,
         }        
 
-        const response = await axios.put(`https://port-0-fitness-houston-login-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/${userData._id}`, updatedUserData)
+        const response = await axios.put(`https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/${userData._id}`, updatedUserData)
         if(response.status === 200){
           console.log('정보가 성공적으로 업데이트되었습니다.')
           setUpdateSuccess(true) 
@@ -161,7 +161,7 @@ function Information({ onClose }) {
 
   const handleDelete = async () => {
     try{
-      const response = await axios.delete(`https://port-0-fitness-houston-login-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/${userData._id}`)
+      const response = await axios.delete(`https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/${userData._id}`)
 
       if(response.status === 200){
         console.log('계정이 성공적으로 삭제되었습니다.')

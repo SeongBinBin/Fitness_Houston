@@ -4,7 +4,7 @@ import '../../../asset/css/reset.css'
 import Data_Article01 from './Data_Article01/Data_Article01'
 
 function Article01() {
-    console.log( Data_Article01)
+    // console.log( Data_Article01)
     return (
         <div className='Article01'>
             <div className='Article01_Container'>

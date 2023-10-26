@@ -4,9 +4,9 @@ const User = require('../Model/User')
 const router = express.Router()
 
 // CORS 설정 (다른 도메인에서 실행 중인 경우 필요)
-const cors = require('cors')
-const app = express()
-app.use(cors())
+// const cors = require('cors')
+// const app = express()
+// app.use(cors())
 
 const SUCCESS = { code: 200, message: '성공' }
 const CLIENT_ERROR = { code: 400, message: '클라이언트 에러' }

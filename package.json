@@ -62,6 +62,6 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
-  "proxy": "http://localhost:5000",
+  "proxy": "https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app",
   "homepage": "."
 }

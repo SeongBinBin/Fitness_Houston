@@ -8,7 +8,7 @@ import React, {useRef, useEffect, useState} from 'react'
 
 
 function Article06() {
-    console.log(Data_Article06.length - 5)
+    // console.log(Data_Article06.length - 5)
     const slider = useRef(null)
     const [current, setcurrent] = useState(0)
     const slide_Width = 100

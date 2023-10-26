@@ -22,7 +22,7 @@ function SearchPW({ onClose }){
       if(name === "" || id === "" || email === ""){
         setError("이름, 아이디, 이메일 중 다시 확인하세요.")
       }else{
-        const response = await axios.post('http://localhost:5000/api/users/findPw', {
+        const response = await axios.post('https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/findPw', {
           name,
           userId: id,
           email,

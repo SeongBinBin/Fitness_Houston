@@ -19,7 +19,7 @@ function SearchID({ onClose }){
       setError("이름나 이메일을 확인하세요.")
     }else{
       try{        
-        const response = await axios.post('http://localhost:5000/api/users/findId', { 
+        const response = await axios.post('https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/findId', { 
           name, 
           email, 
         })

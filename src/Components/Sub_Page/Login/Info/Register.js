@@ -106,7 +106,7 @@ function Register({ onClose }){
           agree,
         }
         
-        const response = await axios.post('http://localhost:5000/api/users/register', userData)        
+        const response = await axios.post('https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/register', userData)        
         if(response.data.code === 400){
           console.log(response.data.message)
           setEmailError('이미 사용 중인 이메일입니다.')        
@@ -129,7 +129,7 @@ function Register({ onClose }){
       return
     }
     try{
-      const response = await axios.post('http://localhost:5000/api/users/checkId', { userId: id })
+      const response = await axios.post('https://port-0-fitness-houston-test-euegqv2llo5f0e8f.sel5.cloudtype.app/api/users/checkId', { userId: id })
       if(response.status === 200){
         // 아이디 사용여부
         if(response.data.isAvailable){
