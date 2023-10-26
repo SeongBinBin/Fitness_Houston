@@ -178,17 +178,17 @@
     transform: rotate(90deg);
 }
 
-/* @media (min-width: 0px){
+@media (min-width: 0px){
     .footer{
         display: none;
     }
-} */
+}
 @media (min-width: 380px) {
     .footer{
         display: block;
     }
     .footer_header{
-        width: 95%;
+        width: 90%;
     }
     .footer_notice{
         width: 90%;
@@ -206,7 +206,7 @@
     }
     .footer_select{
         font-size: .5rem;
-        zoom: .55;
+        zoom: .5;
     }
     .footer_info_big, .footer_info_call{
         font-size: .5rem;
