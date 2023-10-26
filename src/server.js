@@ -3,7 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const app = express();
 const server = require('http').createServer(app);
-// const announcementRouter = require('./server/routes/Announcements')
+const announcementRouter = require('./server/routes/Announcements')
 const loginRouter = require('../src/Components/Sub_Page/Server/Route/Users')
 const bodyParser = require('body-parser')
 
@@ -27,5 +27,5 @@ mongoose.connect('mongodb+srv://fitness:houston@cluster0.mbn4mzj.mongodb.net/?re
 })
 .catch(err => console.log('MongoDB Connection Error: ',err))
 
-// app.use('/api/announcement', announcementRouter)
+app.use('/api/announcement', announcementRouter)
 app.use('/api/users', loginRouter)
