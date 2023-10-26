@@ -46,7 +46,7 @@ function Goods({ selectedCategory }){
         {ImgData}
         <Modal isOpen={isModalOpen} onClose={closeModal} product={selectedProduct} />
       </div>      
-      <div className="pagination">
+      <div className="paginations">
         <button
           onClick={() => setPageNumber(pageNumber - 1)}
           disabled={pageNumber === 1}

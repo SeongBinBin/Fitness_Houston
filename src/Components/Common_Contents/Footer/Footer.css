@@ -178,12 +178,12 @@
     transform: rotate(90deg);
 }
 
-@media (min-width: 0px){
+/* @media (min-width: 0px){
     .footer{
         display: none;
     }
-}
-@media (min-width: 400px) {
+} */
+@media (min-width: 380px) {
     .footer{
         display: block;
     }

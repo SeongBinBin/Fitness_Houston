@@ -47,6 +47,13 @@ function Map() {
             customOverlay.setMap(null)
         })
     }, [latitude, longitude])
+
+    const scroll_zero = () => {
+        window.scrollTo({
+            top: 0,
+            left: 0,
+        })
+    }
     
     return(
     <>
@@ -67,6 +74,7 @@ function Map() {
                                 setLatitude(data.lat)
                                 setLongitude(data.lng)
                                 setLocationIndex(index)     // 클릭된 위치를 선택
+                                scroll_zero()
                             }}
                             >
                             {data.title}</li>

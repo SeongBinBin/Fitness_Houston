@@ -179,9 +179,11 @@ function Announcement(){
         } else {
             setIsAdmin(false)
         }
-        if(modal) {     // 글쓰기 모달을 띄우면서 자동으로 포커스 넣는 부분
-            authorFocus.current.focus()
-        }
+
+        // 글쓰기 모달을 띄우면서 자동으로 포커스 넣는 부분
+        // if(modal) {
+        //     authorFocus.current.focus()
+        // }
     }, [modal])
     
     return(

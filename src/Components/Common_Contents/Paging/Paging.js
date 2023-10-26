@@ -4,6 +4,17 @@ import {AiOutlineLeft, AiOutlineRight, AiOutlineDoubleLeft, AiOutlineDoubleRight
 import './Paging.css'
 
 const Paging = ({page, count, setPage, itemsPerPage}) => {
+    const scroll_zero = () => {
+        window.scrollTo({
+            top: 0,
+            left: 0,
+        })
+    }
+    const handlePageChange = (pageNumber) => {
+        setPage(pageNumber)     // 페이지 변경을 처리하는 함수 호출
+        scroll_zero()           // 페이지 변경 후에 scroll_zero 함수 호출
+    }
+
     return(
         <div>
             <Pagination
@@ -15,7 +26,7 @@ const Paging = ({page, count, setPage, itemsPerPage}) => {
                 nextPageText = {<AiOutlineRight className="paging_icon"/>}          // >
                 firstPageText = {<AiOutlineDoubleLeft className="paging_icon"/>}    // <<
                 lastPageText = {<AiOutlineDoubleRight className="paging_icon"/>}    // >>
-                onChange = {setPage}                    // 페이지가 바뀔 때 핸들링 하는 함수
+                onChange={handlePageChange} // 페이지 변경 시 핸들링하는 함수
             >
             </Pagination>
         </div>

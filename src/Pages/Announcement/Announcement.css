@@ -224,20 +224,23 @@
 }
 @media (max-width: 410px) {
     .announcement_list{
-        font-size: .45rem;
+        font-size: .53rem;
     }
     .announcement_h1{
         font-size: 1.3rem;
     }   
     .create_modal, .update_modal{
         width: 90%;
-        height: 650px;
+        height: 550px;
     }
     .create_modal_contents span{
         font-size: .7rem;
     }
-    .create_modal_contents input{
+    .create_modal_contents input, .create_modal_contents textarea{
         font-size: .5rem;
+    }
+    .create_contents textarea, .update_contents textarea{
+        height: 250px;
     }
     .thead_num, .thead_view{
         width: 2rem;
@@ -247,5 +250,8 @@
     }
     .tbody_title{
         text-align: left;
+    }
+    .create_btn, .contents_btn{
+        font-size: .5rem;
     }
 }
