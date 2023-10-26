@@ -3,12 +3,14 @@ const express = require('express');
 const cors = require('cors');
 const app = express();
 const server = require('http').createServer(app);
-const announcementRouter = require('./server/routes/Announcements')
+// const announcementRouter = require('./server/routes/Announcements')
 const loginRouter = require('../src/Components/Sub_Page/Server/Route/Users')
+const bodyParser = require('body-parser')
 
 // CORS 사용
 app.use(cors())
 app.use(express.json())
+app.use(bodyParser.json())
 
 const port = 5500
 
@@ -25,5 +27,5 @@ mongoose.connect('mongodb+srv://fitness:houston@cluster0.mbn4mzj.mongodb.net/?re
 })
 .catch(err => console.log('MongoDB Connection Error: ',err))
 
-app.use('/api/announcement', announcementRouter)
+// app.use('/api/announcement', announcementRouter)
 app.use('/api/users', loginRouter)
