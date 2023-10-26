@@ -55,6 +55,9 @@
     border-bottom: 1px solid rgba(0,0,0,0.1);
     text-align: center;
 }
+.contents_list{
+    display: table-row;
+}
 .contents_list:hover{
     background-color: #efefef
 }

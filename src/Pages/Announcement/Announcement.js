@@ -205,7 +205,7 @@ function Announcement(){
                     {announcementData.slice((page - 1) * itemsPerPage, page * itemsPerPage).map((announcement, index) => (
                         <tbody key={announcement._id}>
                             <tr className="contents_list">
-                            <td>{announcementData.length - index - (page - 1) * itemsPerPage}</td>
+                                <td>{announcementData.length - index - (page - 1) * itemsPerPage}</td>
                                 <td className="tbody_title">
                                     <span className="tbody_title_name" onClick={() => toggleContents(announcement._id)}>{announcement.title}</span>
                                 </td>
