@@ -4,6 +4,7 @@ import Nav from "../Nav/Nav";
 import ScrollTop from "../ScrollTop/ScrollTop";
 // import { SlLogin } from "react-icons/sl";
 import { BiSolidUser, BiUserCircle } from "react-icons/bi";
+// import { Link } from "react-router-dom";
 
 function Header() {
     const [hoverHeader, setHoverHeader] = useState(false)   // 기능 없는 헤더와 Nav와 연결된 기능이 있는 헤더를 구분하게 해주는 곳
@@ -52,6 +53,14 @@ function Header() {
                     <p className={`${loggedIn? 'hide': 'show'}`}>로그인</p>
                     <BiUserCircle className={`header_login_logo ${loggedIn? 'show': 'hide'}`} />
                     <p className={`${loggedIn? 'show': 'hide'}`}>MyPage</p>
+                    {/* <Link to="/login">
+                        <BiSolidUser className={`header_login_logo ${loggedIn? 'hide': 'show'}`} />
+                        <p className={`${loggedIn? 'hide': 'show'}`}>로그인</p>
+                    </Link>
+                    <Link to="/condition">
+                        <BiUserCircle className={`header_login_logo ${loggedIn? 'show': 'hide'}`} />
+                        <p className={`${loggedIn? 'show': 'hide'}`}>MyPage</p>
+                    </Link> */}
                 </div>
             </div>
             <Nav hoverHeader={hoverHeader}></Nav>

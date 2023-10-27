@@ -55,7 +55,7 @@
 
 .opacity_show{
     opacity: 1;
-    transition: all .4s ease-out;
+    /* transition: all .4s ease-out; */
 }
 .opacity_hide{
     opacity: 0;
