@@ -65,6 +65,7 @@ function Login(){
           localStorage.setItem('userId', userId)
           localStorage.setItem('password', password)
           localStorage.setItem('isAdmin', response.data.user.isAdmin)
+          localStorage.setItem('name', response.data.user.name)
           
           // window.location.href = 'http://localhost:3000/'
           // window.history.pushState({}, document.title, 'http://localhost:3000/')             

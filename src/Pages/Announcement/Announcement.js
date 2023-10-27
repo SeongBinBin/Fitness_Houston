@@ -180,6 +180,9 @@ function Announcement(){
             setIsAdmin(false)
         }
 
+        const nameValue = localStorage.getItem('name')    // login.js 에서 isAdmin 값 가져오기
+        setAuthor(nameValue)
+
         // 글쓰기 모달을 띄우면서 자동으로 포커스 넣는 부분
         // if(modal) {
         //     authorFocus.current.focus()
@@ -197,7 +200,7 @@ function Announcement(){
                         <tr>
                             <th className="thead_num">번호</th>
                             <th className="thead_title">제목</th>
-                            <th className="thead_author">글쓴이</th>
+                            <th className="thead_author">작성자</th>
                             <th className="thead_date">날짜</th>
                             <th className="thead_view">조회</th>
                         </tr>
