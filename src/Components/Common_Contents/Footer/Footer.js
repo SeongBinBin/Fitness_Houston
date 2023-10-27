@@ -18,24 +18,22 @@ function Footer(){
                             <div>사이버감사실</div>
                         </div>
                         <div className="footer_select">
-                            <div>
-                                <div className="footer_select_box">
-                                    <p className="footer_hover_main">REFERENCE SITE <AiOutlineDown className="down_icon"/></p>
-                                    <div className="footer_select_hover">
-                                        <p className="footer_hover">
-                                            <a href="https://mall.hanssem.com/main.html" target="_blank" rel="noopener noreferrer">(주) 한샘</a>
-                                            <AiOutlineUp className="up_icon"/>
-                                        </p>
-                                        <p className="footer_hover">
-                                            <a href="https://gymboxx.co.kr/" target="_blank" rel="noopener noreferrer">짐박스</a>
-                                        </p>
-                                        <p className="footer_hover">
-                                            <a href="https://www.bodyx.co.kr/" target="_blank" rel="noopener noreferrer">바디엑스</a>
-                                        </p>
-                                        <p className="footer_hover">
-                                            <a href="https://www.mega-mgccoffee.com/" target="_blank" rel="noopener noreferrer">메가커피</a>
-                                        </p>
-                                    </div>
+                            <div className="footer_select_box">
+                                <p className="footer_hover_main">REFERENCE SITE <AiOutlineDown className="down_icon"/></p>
+                                <div className="footer_select_hover">
+                                    <p className="footer_hover">
+                                        <a href="https://mall.hanssem.com/main.html" target="_blank" rel="noopener noreferrer">(주) 한샘</a>
+                                        <AiOutlineUp className="up_icon"/>
+                                    </p>
+                                    <p className="footer_hover">
+                                        <a href="https://gymboxx.co.kr/" target="_blank" rel="noopener noreferrer">짐박스</a>
+                                    </p>
+                                    <p className="footer_hover">
+                                        <a href="https://www.bodyx.co.kr/" target="_blank" rel="noopener noreferrer">바디엑스</a>
+                                    </p>
+                                    <p className="footer_hover">
+                                        <a href="https://www.mega-mgccoffee.com/" target="_blank" rel="noopener noreferrer">메가커피</a>
+                                    </p>
                                 </div>
                             </div>
                         </div>
