@@ -13,6 +13,7 @@
 .footer_top{
     height: 55px;
     border-bottom: 1px solid #efefef;
+    display: flex;
 }
 .footer_header{
     width: 80%;
@@ -24,7 +25,6 @@
 .footer_header_text{
     display: flex;
     gap: 30px;
-    line-height: 55px;
     font-size: .8rem;
 
     /* display: none; */
@@ -199,7 +199,6 @@
         height: 40px;
     }
     .footer_header_text{
-        line-height: 70px;
         font-size: .5rem;
         gap: 15px;
         zoom: .55;
@@ -246,7 +245,6 @@
         gap: 10px;
     }
     .footer_header_text{
-        line-height: 60px;
         zoom: .7;
     }
     .footer_select{
@@ -284,7 +282,6 @@
         height: 55px;
     }
     .footer_header_text{
-        line-height: 55px;
         font-size: .65rem;
         gap: 15px;
         zoom: 1;
