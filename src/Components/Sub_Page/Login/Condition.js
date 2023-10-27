@@ -4,6 +4,8 @@ import Information from "./Information"
 import axios from "axios"
 import {useNavigate} from 'react-router-dom'
 import NavSimple from "../../Common_Contents/NavSimple/NavSimple"
+import { MdLogout } from "react-icons/md";
+import { BiUser } from "react-icons/bi";
 
 function Condition() {
   const [conditionModalOpen, setConditionModalOpen] = useState(true)
@@ -56,16 +58,16 @@ function Condition() {
             <div className="condition_box">
               <div className="condition_info">
                 <button className="info_change_btn" onClick={openInformationModal}>
-                  <span className="material-symbols-outlined">
-                    person
+                  <span>
+                    <BiUser />
                   </span>
                   <p>회원정보 수정</p>
                 </button>
               </div>
               <div className="condition_logout">
                 <button className="logout_btn" onClick={handleLogout}>
-                  <span className="material-symbols-outlined">
-                    logout
+                  <span>
+                    <MdLogout />
                   </span>
                   <p>로그아웃</p>
                 </button>
