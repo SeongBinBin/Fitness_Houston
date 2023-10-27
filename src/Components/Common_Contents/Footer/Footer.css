@@ -16,7 +16,7 @@
     display: flex;
 }
 .footer_header{
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -99,7 +99,7 @@
     flex-direction: column;
 }
 .footer_notice{
-    width: 80%;
+    width: 90%;
     height: 150px;
     margin: 0 auto;
     display: flex;
@@ -187,23 +187,19 @@
     .footer{
         display: block;
     }
-    .footer_header{
-        width: 100%;
-    }
     .footer_top{
         height: 30px;
     }
     .footer_header_text{
         font-size: .5rem;
         gap: 15px;
-        zoom: .55;
+        zoom: .6;
     }
     .footer_select{
         font-size: .5rem;
         zoom: .5;
     }
     .footer_notice{
-        width: 90%;
         height: 100px;
         gap: 10px;
     }
