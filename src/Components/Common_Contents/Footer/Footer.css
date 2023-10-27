@@ -56,7 +56,7 @@
     pointer-events: none;
 }
 .footer_select_hover{
-    width: 13rem;
+    width: 100%;
     position: absolute;
     top: 0;
     left: 0;
@@ -196,6 +196,7 @@
         zoom: .6;
     }
     .footer_select{
+        width: 30%;
         font-size: .5rem;
         zoom: .5;
     }
@@ -383,6 +384,7 @@
     }
     .footer_select{
         font-size: .9rem;
+        width: 13rem;
     }
     .footer_info_big, .footer_info_call{
         font-size: 1.3rem;
