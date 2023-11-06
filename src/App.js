@@ -9,6 +9,7 @@ import Sub_Page from './Components/Sub_Page/Sub_Page'
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import Login from './Components/Sub_Page/Login/Login';
 import Map from './Components/Common_Contents/Map/Map'
+import NativeMap from './Components/Common_Contents/Map/NativeMap'
 import Condition from './Components/Sub_Page/Login/Condition';
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
           <Route path="login" element={<Login />} />
           <Route path="condition" element={<Condition />}/>
           <Route path="map" element={<Map />}/>
+          <Route path="nativemap" element={<NativeMap />}/>
 
         </Routes>
       </HashRouter>
