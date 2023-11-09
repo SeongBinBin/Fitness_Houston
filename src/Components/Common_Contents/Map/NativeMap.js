@@ -5,8 +5,8 @@ import { Map } from "react-kakao-maps-sdk"
 import './NativeMap.css'
 
 function NativeMap() {
-    const [latitude, setLatitude] = useState('36.35000144792779'); // 위도 정보
-    const [longitude, setLongitude] = useState('127.37817030253693'); // 경도 정보
+    const [latitude, setLatitude] = useState(''); // 위도 정보
+    const [longitude, setLongitude] = useState(''); // 경도 정보
 
     useEffect(() => {
         let container = document.getElementById("map"); // 지도를 담을 영역의 DOM 레퍼런스
