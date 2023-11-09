@@ -14,7 +14,6 @@
 .customOverlay{
     position: relative;
     bottom: 55px;
-    right: 10px;
     display: flex;
 }
 .travelRecord{
