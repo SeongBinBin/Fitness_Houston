@@ -148,7 +148,7 @@ function NativeMap() {
             }
         }
 
-        document.addEventListener('message', (e) => {
+        document.addEventListener('message', (e) => {   // RN에서 값을 전송받는 부분
             const data = JSON.parse(e.data);
             setLatitude(data.latitude);
             setLongitude(data.longitude);
