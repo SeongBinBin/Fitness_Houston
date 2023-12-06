@@ -37,7 +37,7 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/Font Awesome-528DD7?style=for-the-badge&logo=Font Awesome&logoColor=white">
         <img src="https://img.shields.io/badge/React Router-CA4545?style=for-the-badge&logo=React Router&logoColor=white">
-    </div>
+    </div><br/>
     <!-- Backend -->
     <p><strong>백엔드</strong></p>
     <div>
@@ -47,25 +47,25 @@
         <img src="https://img.shields.io/badge/Expess-000000?style=for-the-badge&logo=Express&logoColor=white"> 
         <img src="https://img.shields.io/badge/Mongoose-F04D35?style=for-the-badge&logo=Mongoose&logoColor=white"> 
         <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=white"> 
-    </div>
+    </div><br/>
     <!-- Database -->
     <p><strong>데이터베이스</strong></p>
     <div>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">         
-    </div>      
+    </div><br/>
     <!--Development Tools -->
     <p><strong>개발프로그램</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
         <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">        
-    </div>
+    </div><br/>
     <!-- Version Control -->
     <p><strong>버전 관리</strong></p>
     <div>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
         <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">         
-    </div> 
+    </div><br/>
     <!-- Communication -->
     <p><strong>의사소통</strong></p>
     <div>
